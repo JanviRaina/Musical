@@ -1,7 +1,6 @@
-
-<p align="center">
-  # Musical
-</p>
+<div align="center">
+    <h3 align="center">Musical </h3>
+</div>
 
 ## Abstract:
 
