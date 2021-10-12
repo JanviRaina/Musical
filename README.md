@@ -1,5 +1,5 @@
 <div align="center">
-    <h3 align="center">Musical </h3>
+    <h1 align="center">Musical </h1>
 </div>
 
 ## Abstract:
