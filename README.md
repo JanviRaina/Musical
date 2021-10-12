@@ -1,4 +1,7 @@
-# Musical
+
+<p align="center">
+  # Musical
+</p>
 
 ## Abstract:
 
